@@ -1,0 +1,2 @@
+# monitoring_autocorrelated_processes_RNN
+Performance Comparison of Autocorrelation Process Monitoring Procedures Based on Classification and Prediction
